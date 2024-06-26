@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+
+.mat-column-name,
+.mat-column-count {
+    padding: 16px;
+}
+
+tr.mat-row {
+    transition: background-color 0.3s;
+}
